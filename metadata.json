@@ -1,0 +1,5 @@
+{
+  "name": "PiNAS - Simple Raspberry Pi NAS",
+  "description": "A lightweight, clean NAS interface for Raspberry Pi to manage, upload, and organize your files.",
+  "requestFramePermissions": []
+}
